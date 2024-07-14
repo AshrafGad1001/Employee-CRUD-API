@@ -135,3 +135,4 @@ F:\Courses\Training WebDevelopment\26 Full App Angular and DotNET\Employee-CRUD-
 F:\Courses\Training WebDevelopment\26 Full App Angular and DotNET\Employee-CRUD-API\Employee-CRUD-API\obj\Debug\net8.0\Employee-CRUD-API.pdb
 F:\Courses\Training WebDevelopment\26 Full App Angular and DotNET\Employee-CRUD-API\Employee-CRUD-API\obj\Debug\net8.0\Employee-CRUD-API.genruntimeconfig.cache
 F:\Courses\Training WebDevelopment\26 Full App Angular and DotNET\Employee-CRUD-API\Employee-CRUD-API\obj\Debug\net8.0\ref\Employee-CRUD-API.dll
+F:\Courses\Training WebDevelopment\26 Full App Angular and DotNET\Employee-CRUD-API\Employee-CRUD-API\obj\Debug\net8.0\Employee-CRUD-API.sourcelink.json
